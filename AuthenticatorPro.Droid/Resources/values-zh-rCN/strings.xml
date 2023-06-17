@@ -232,7 +232,7 @@
     <string name="prefAutoBackupSummary">Automatically back up to a specific location when changes are made. Disables backup reminders.</string>
     <string name="prefLanguageTitle">语言</string>
     <string name="prefLanguageSummary">选择要在应用程序中使用的语言</string>
-    <string name="prefTapToCopyTitle">Tap to Copy</string>
+    <string name="prefTapToCopyTitle">点击以复制</string>
     <string name="prefTapToCopySummary">Copy the code to the clipboard when tapped</string>
     <string name="prefResetCopyCountTitle">Reset Copy Count</string>
     <string name="prefResetCopyCountSummary">Clear the number of times each authenticator has been copied</string>
