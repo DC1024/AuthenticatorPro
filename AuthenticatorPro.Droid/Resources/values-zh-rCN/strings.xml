@@ -14,7 +14,7 @@
     <string name="retry">重试</string>
     <string name="ignore">忽略</string>
     <string name="disable">禁用</string>
-    <string name="name">Name</string>
+    <string name="name">名称</string>
     <!-- Menu items -->
     <string name="settings">设置</string>
     <string name="restore">恢复</string>
