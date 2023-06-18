@@ -34,8 +34,8 @@
     <string name="sort">排序</string>
     <string name="sortAZ">字母顺序 (a 至 z)</string>
     <string name="sortZA">字母顺序 (z 至 a)</string>
-    <string name="sortMostCopied">Most copied</string>
-    <string name="sortLeastCopied">Least copied</string>
+    <string name="sortMostCopied">最多复制</string>
+    <string name="sortLeastCopied">最少复制</string>
     <string name="sortCustom">自定义</string>
     <string name="aboutSummary">浏览关于和许可证信息。</string>
     <string name="supportDevelopment">支持开发</string>
